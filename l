@@ -1,0 +1,284 @@
+[33mcommit b11c403223e31b0fd23697ea0d37c821154bfe3a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Mon Apr 1 03:45:51 2024 +0330
+
+    Revert "sds"
+    
+    This reverts commit 23543a154428a8b8fb539274545377cf109f826c.
+
+ a.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 23543a154428a8b8fb539274545377cf109f826c[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Sat Mar 30 15:31:41 2024 +0330
+
+    sds
+
+ a.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 62d5aed651e6303df8d4eae63db893ac5f43493b[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Sat Mar 30 15:30:13 2024 +0330
+
+    remove a
+
+ a.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit cb9295aff7ff56bd1099c5d194d2e1782f1a621d[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Sat Mar 30 15:28:14 2024 +0330
+
+    add a
+
+ b.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit eedb8c06e412d4df980f7f639aaa112325534c3c[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Sat Mar 30 15:25:44 2024 +0330
+
+    a add
+
+ b.txt => a.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 8e2809769e90991e341c022557711746539bddf9[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Sat Mar 30 15:23:34 2024 +0330
+
+    b add
+
+ b.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit ba757af7b30d817c723689cbb51caf6edf134f34[m
+Merge: eab0b26 78a01a9
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Sat Mar 30 15:10:56 2024 +0330
+
+    Merge branch 'salam_branch'
+
+[33mcommit 78a01a9cc27a4c53046a1e7f6a159cb98e9d172a[m[33m ([m[1;32msalam_branch[m[33m)[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Sat Mar 30 15:09:00 2024 +0330
+
+    add salam
+
+ s.txt     | 0
+ salam.txt | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit eab0b26454eb0de68361dff944518ae35ac34ada[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Sat Mar 30 15:01:32 2024 +0330
+
+    add hos
+
+ s.txt => hos.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 845c0884eeff60c07d0c60b54136d6606763b898[m
+Merge: 846fbac 700dedc
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Mon Mar 18 17:40:07 2024 +0330
+
+    Merge branch 'graphics'
+
+[33mcommit 846fbac6c58712bcd5b2236c3bb78776243be721[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Mon Mar 18 17:38:56 2024 +0330
+
+    add s.txt
+
+ s.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 7a58f87a1e1f79ddf20d5ab33f741b7589dbc61a[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Mon Mar 18 17:38:22 2024 +0330
+
+    add k.txt
+
+ k.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 700dedc0b011b23fbdb0522fac7f9388e454145b[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Mon Mar 18 10:37:06 2024 +0330
+
+    add hojat.txt
+
+ hojat.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit c0c9ce159cfa2575e53bf066d044aba225276859[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Sat Mar 16 00:18:28 2024 +0330
+
+    add graphics.txt
+
+ graphics.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 21390713274fff5fd0f1d70781ed8d2a85f89185[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Sun Mar 10 00:35:27 2024 +0330
+
+    test.txt seccesufuly appended to repazitory
+
+ test.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 864f512d34ab32ee0e1a5e5afa887aaff5a7ed5c[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Wed Feb 28 00:04:13 2024 +0330
+
+    add file ali.txt
+
+ ali.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+[33mcommit b11c403223e31b0fd23697ea0d37c821154bfe3a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Mon Apr 1 03:45:51 2024 +0330
+
+    Revert "sds"
+    
+    This reverts commit 23543a154428a8b8fb539274545377cf109f826c.
+
+ a.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 23543a154428a8b8fb539274545377cf109f826c[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Sat Mar 30 15:31:41 2024 +0330
+
+    sds
+
+ a.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 62d5aed651e6303df8d4eae63db893ac5f43493b[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Sat Mar 30 15:30:13 2024 +0330
+
+    remove a
+
+ a.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit cb9295aff7ff56bd1099c5d194d2e1782f1a621d[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Sat Mar 30 15:28:14 2024 +0330
+
+    add a
+
+ b.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit eedb8c06e412d4df980f7f639aaa112325534c3c[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Sat Mar 30 15:25:44 2024 +0330
+
+    a add
+
+ b.txt => a.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 8e2809769e90991e341c022557711746539bddf9[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Sat Mar 30 15:23:34 2024 +0330
+
+    b add
+
+ b.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit ba757af7b30d817c723689cbb51caf6edf134f34[m
+Merge: eab0b26 78a01a9
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Sat Mar 30 15:10:56 2024 +0330
+
+    Merge branch 'salam_branch'
+
+[33mcommit 78a01a9cc27a4c53046a1e7f6a159cb98e9d172a[m[33m ([m[1;32msalam_branch[m[33m)[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Sat Mar 30 15:09:00 2024 +0330
+
+    add salam
+
+ s.txt     | 0
+ salam.txt | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit eab0b26454eb0de68361dff944518ae35ac34ada[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Sat Mar 30 15:01:32 2024 +0330
+
+    add hos
+
+ s.txt => hos.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 845c0884eeff60c07d0c60b54136d6606763b898[m
+Merge: 846fbac 700dedc
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Mon Mar 18 17:40:07 2024 +0330
+
+    Merge branch 'graphics'
+
+[33mcommit 846fbac6c58712bcd5b2236c3bb78776243be721[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Mon Mar 18 17:38:56 2024 +0330
+
+    add s.txt
+
+ s.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 7a58f87a1e1f79ddf20d5ab33f741b7589dbc61a[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Mon Mar 18 17:38:22 2024 +0330
+
+    add k.txt
+
+ k.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 700dedc0b011b23fbdb0522fac7f9388e454145b[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Mon Mar 18 10:37:06 2024 +0330
+
+    add hojat.txt
+
+ hojat.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit c0c9ce159cfa2575e53bf066d044aba225276859[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Sat Mar 16 00:18:28 2024 +0330
+
+    add graphics.txt
+
+ graphics.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 21390713274fff5fd0f1d70781ed8d2a85f89185[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Sun Mar 10 00:35:27 2024 +0330
+
+    test.txt seccesufuly appended to repazitory
+
+ test.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 864f512d34ab32ee0e1a5e5afa887aaff5a7ed5c[m
+Author: Amrmmd <amirmohamad_87286@outlook.com>
+Date:   Wed Feb 28 00:04:13 2024 +0330
+
+    add file ali.txt
+
+ ali.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
